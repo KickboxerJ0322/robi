@@ -6,11 +6,10 @@
 
 ## sample
 
-- **sample_index.html**: htmlのコードです。sample_a_code.gsのURL、sample_b_code.gsのURL、を置き換えて利用ください。
-- **sample_a_code.gs**: gasのコードaです。Google Cloud APIキー、Cloud FunctionsのURL、を置き換えて利用ください。
-- **sample_b_code.gs**: gasのコードbです。TTS APIキー、を置き換えて利用ください。
-- **sample_cloudrun_index.js**: cloud runのコードです。Gemini APIのキー、を置き換えて利用ください。
-- **sample_cloudrun_package.json**: cloud runのコードです。
+- **sample_index.html**: htmlのコードです。sample_code.gsのURL、を置き換えて利用ください。
+- **sample_code.gs**: gasのコードです。ttsApiKey、docId、Gemini APIキー、スプレッドシートID、を置き換えて利用ください。
+- **sample_プロンプト.txt**: プロンプトの例です。google drive内にgoogle ドキュメントとして保存して、利用ください。
+- **sample_log.xlsx**: ログ用のスプレッドシートです。google drive内にgoogle スプレッドシートとして保存して、利用ください。
 
 ## URL
 
